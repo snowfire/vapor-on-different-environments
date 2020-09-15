@@ -1,4 +1,4 @@
-# Use separate AWS accounts for a single Vapor project
+# Use separate staging/production AWS accounts for a Laravel Vapor project
 
 These scripts allows you to use separate AWS account for your staging and production environments.
 
